@@ -1,3 +1,3 @@
-<?php echo "My repository" 
-    echo "My name is jansizi" 
+<?php echo "My repository" ;
+    echo "My name is jansizi" ;
 ?> 

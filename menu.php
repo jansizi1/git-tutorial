@@ -1,4 +1,5 @@
-<?php echo "<h1>main";
-echo "<h1>aaa"
-echo "<h1>asd";
-echo "<h1>ddd">
+<?php echo "<h1>หน้าหลีก";
+echo "<h1>สินค้า"
+echo "<h1>เกี่ยวกับเรา";
+echo "<h1>แผนที่";
+?>
